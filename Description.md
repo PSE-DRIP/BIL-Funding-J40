@@ -1,4 +1,4 @@
-This data repository contains files referenced in the Bipartisan Infrastructure Law and Justice40 tracking project captured in this StoryMap Collection: https://storymaps.arcgis.com/collections/252ea6f3c35a46418d2a1e69f3c0001c.
-The 5StateTractsandProjects.csv is the primary dataset we used. We downloaded this from the General Services Administration’s (GSA’s) Data2Decisions Dashboard, which is no longer available in its original location but is largely available here now: https://www.whitehouse.gov/invest/?utm_source=invest.gov.
-We downloaded the CEJST Codebook from the CEQ’s Climate and Economic Justice Screening Tool (https://screeningtool.geoplatform.gov), and we reference it in our project. 
-The County-Level & Regional BIL Projects.xlsx includes the data we removed from the original dataset (Full_DatasetAUG72023fromGSA), as explained in our full methodology.
+	This data repository contains files referenced in the Bipartisan Infrastructure Law and Justice40 tracking project captured in this StoryMap Collection: https://storymaps.arcgis.com/collections/252ea6f3c35a46418d2a1e69f3c0001c.
+	The 5StateTractsandProjects.csv is the primary dataset we used. We downloaded this from the General Services Administration’s (GSA’s) Data2Decisions Dashboard, which is no longer available in its original location but is largely available here now: https://www.whitehouse.gov/invest/?utm_source=invest.gov.
+	We downloaded the CEJST Codebook from the CEQ’s Climate and Economic Justice Screening Tool (https://screeningtool.geoplatform.gov), and we reference it in our project. 
+	The County-Level & Regional BIL Projects.xlsx includes the data we removed from the original dataset (Full_DatasetAUG72023fromGSA), as explained in our full methodology.
